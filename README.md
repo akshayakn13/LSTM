@@ -22,7 +22,7 @@ DonorsChoose.org can then use this information to identify projects most likely 
 
 # Result
 
-Using LSTM(Long-Short Term Memory) I trained three different models with different configurations and was able to achieve
+Using LSTM(Long-Short Term Memory) I trained three different models with different architectures and was able to achieve
 and auroc score of around 70%.
 
 # Credits
